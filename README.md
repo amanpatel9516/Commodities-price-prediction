@@ -18,4 +18,5 @@ This repository contains my implementation of various Supervised Learning algori
 ## 🛠️ Tech Stack
 * Python
 * Scikit-Learn
+* All models decision tree ,random forest , gradient boosting , linear regression ..
 * Pandas & NumPy
