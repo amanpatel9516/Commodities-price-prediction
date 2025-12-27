@@ -1,7 +1,7 @@
 # Supervised Learning Projects 🤖
 
 ## 📌 Overview
-This repository contains my implementation of various Supervised Learning algorithms using Python.
+This repository contains my implementation of various Supervised Learning algorithms using Python and sklearn library which retrives the things from the models and help to perform calculations and all algorithms..
 
 ## 📂 Models Included
 | File Name | Algorithm | Description |
