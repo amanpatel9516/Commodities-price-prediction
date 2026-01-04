@@ -20,3 +20,5 @@ This repository contains my implementation of various Supervised Learning algori
 * Scikit-Learn
 * All models decision tree ,random forest , gradient boosting , linear regression ..
 * Pandas & NumPy
+* skilearn libraries
+* Best performing model was random forest .
